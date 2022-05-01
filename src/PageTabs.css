@@ -1,0 +1,30 @@
+.page-tabs .nav-link {
+    cursor: pointer;
+}
+
+.page-tabs .nav-link.active {
+    color: blue;
+}
+
+nav {
+	background-color: #01637F;
+}
+
+nav a.navbar-brand {
+	color: #fefefe;
+}
+
+body {
+	background-color: #029FCC;
+}
+
+form {
+	background-color: #4FD8FF;
+    padding: 25px 25px 50px;
+    border-radius: 20px;
+    margin: 25px 0 0 0;
+}
+
+h1 {
+	color: #fefefe;
+}
